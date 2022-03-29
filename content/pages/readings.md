@@ -39,7 +39,7 @@ Complete information: Rationalizability, Nash equilibrium, epistemic foundations
 
 \[Game Theory\] Chapters 1 and 2.
 
-Bernheim, B. Douglas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rationalizable Strategic Behavior." (PDF)](https://www.parisschoolofeconomics.eu/docs/guesnerie-roger/bernheim84.pdf) _Econometrica_ 52, no. 4 (1984): 1007–28.
+Bernheim, B. Douglas. ["Rationalizable Strategic Behavior." (PDF)](https://www.parisschoolofeconomics.eu/docs/guesnerie-roger/bernheim84.pdf) _Econometrica_ 52, no. 4 (1984): 1007–28.
 
 Pearce, David G. "[Rationalizable Strategic Behavior and the Problem of Perfection](http://www.jstor.org/stable/1911197)." _Econometrica_ 52, no. 4 (1984): 1029–50.
 
@@ -58,9 +58,9 @@ Aumann, Robert, and Adam Brandenburger. "[Epistemic Conditions for Nash Equilibr
 
 Brandenburger, Adam, and Eddie Dekel. "[Hierarchies of Beliefs and Common Knowledge](http://dx.doi.org/10.1006/jeth.1993.1012)." _Journal of Economic Theory_ 59, no. 1 (1993): 189–98.
 
-Dekel, Eddie, Drew Fudenberg, and Stephen Morris.![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Interim Correlated Rationalizability" (PDF)](https://econtheory.org/ojs/index.php/te/article/viewFile/20070015/1059/47) _Theoretical Economics,_ no. 2 (2007): 15–40.
+Dekel, Eddie, Drew Fudenberg, and Stephen Morris.["Interim Correlated Rationalizability" (PDF)](https://econtheory.org/ojs/index.php/te/article/viewFile/20070015/1059/47) _Theoretical Economics,_ no. 2 (2007): 15–40.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Topologies On Types." (PDF)](https://econtheory.org/ojs/index.php/te/article/viewArticle/20060275) _Theoretical Economics,_ no_._ 1 (2006): 275–309.
+———. ["Topologies On Types." (PDF)](https://econtheory.org/ojs/index.php/te/article/viewArticle/20060275) _Theoretical Economics,_ no_._ 1 (2006): 275–309.
 
 
 {{< tdclose >}}
@@ -90,7 +90,7 @@ Bargaining with complete information
 
 Rubinstein, Ariel. "[Perfect Equilibrium in a Bargaining Model](http://www.jstor.org/stable/1912531)." _Econometrica_ 50, no. 1 (1982): 97–109.
 
-Manea, Mihai. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Bargaining in Dynamic Markets." (PDF)](http://economics.mit.edu/files/12432) (2012).
+Manea, Mihai. ["Bargaining in Dynamic Markets." (PDF)](http://economics.mit.edu/files/12432) (2012).
 
 
 {{< tdclose >}}
@@ -134,11 +134,11 @@ Stable equilibrium, the intuitive criterion, iterated weak dominance, epistemic 
 
 Kohlberg, Elon, and Jean-Francois Mertens. "[On the Strategic Stability of Equilibria](http://www.jstor.org/stable/1912320)." _Econometrica_ 54, no. 5 (1986): 1003–37.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Cho, In-Koo, and David M. Kreps. ["Signaling Games and Stable Equilibria." (PDF)](https://www2.bc.edu/thomas-chemmanur/phdfincorp/MF891%20papers/Cho%20Kreps%201987.pdf) _The Quarterly Journal of Economics_ 102, no. 2 (1987): 179–221.
+Cho, In-Koo, and David M. Kreps. ["Signaling Games and Stable Equilibria." (PDF)](https://www2.bc.edu/thomas-chemmanur/phdfincorp/MF891%20papers/Cho%20Kreps%201987.pdf) _The Quarterly Journal of Economics_ 102, no. 2 (1987): 179–221.
 
 Battigalli, Pierpaola, and Marciano Siniscalchi. "[Strong Belief and Forward Induction Reasoning](http://dx.doi.org/10.1006/jeth.2001.2942)." _Journal of Economic Theory_ 106, no. 2 (2002): 356–91.
 
-Govindan, Srihari, and Robert Wilson ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[On Forward Induction](http://dx.doi.org/10.3982/ECTA6956)." _Econometrica_ 77, no. 1 (2008): 1–28.
+Govindan, Srihari, and Robert Wilson "[On Forward Induction](http://dx.doi.org/10.3982/ECTA6956)." _Econometrica_ 77, no. 1 (2008): 1–28.
 
 
 {{< tdclose >}}
@@ -159,7 +159,7 @@ Abreu, Dilip, David Pearce, and Ennio Stacchetti. "[Toward a Theory of Discounte
 
 Abreu, Dilip, Paul Milgrom, and David Pearce. "[Information and Timing in Repeated Partnerships](http://www.jstor.org/stable/2938286)." _Econometrica_ 59, no. 6 (1991): 1713–33.
 
-Fudenberg, Drew, David Levine, and Eric Maskin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Folk Theorem with Imperfect Public Information." (PDF - 2.0MB)](https://scholar.harvard.edu/maskin/publications/folk-theorem-imperfect-public-information) _Econometrica_ 62, no. 5 (1994): 997–1039.
+Fudenberg, Drew, David Levine, and Eric Maskin. ["The Folk Theorem with Imperfect Public Information." (PDF - 2.0MB)](https://scholar.harvard.edu/maskin/publications/folk-theorem-imperfect-public-information) _Econometrica_ 62, no. 5 (1994): 997–1039.
 
 
 {{< tdclose >}}
@@ -180,7 +180,7 @@ Reputation with short-lived opponents
 
 \[Game Theory\] Chapter 9.
 
-Kreps, David M., and Robert Wilson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reputation and Imperfect Information." (PDF - 1.6MB)](http://slantchev.ucsd.edu/courses/pdf/kreps-jet1982v27n2.pdf) _Journal of Economic Theory_ 27, no. 2 (1982): 253–79.
+Kreps, David M., and Robert Wilson. ["Reputation and Imperfect Information." (PDF - 1.6MB)](http://slantchev.ucsd.edu/courses/pdf/kreps-jet1982v27n2.pdf) _Journal of Economic Theory_ 27, no. 2 (1982): 253–79.
 
 Milgrom, Paul, and John Roberts. "[Predation, Reputation and Entry Deterrence](http://dx.doi.org/10.1016/0022-0531(82)90031-X)." _Journal of Economic Theory_ 27, no. 2 (1982): 280–312.
 
@@ -224,7 +224,7 @@ Topkis, Donald M. _Supermodularity and Complementarity_. Princeton University Pr
 
 Van Zandt, Timothy, and Xavier Vives. "[Monotone Equilibria in Bayesian Games of Strategic Complementarities](http://dx.doi.org/10.1016/j.jet.2006.02.009)." _Journal of Economic Theory_ 134, no. 1 (2007): 339–60.
 
-Immorlica, Nicole, Rachel Kranton, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Social Status in Networks](https://www.aeaweb.org/articles?id=10.1257/mic.20160082)." (2015).
+Immorlica, Nicole, Rachel Kranton, et al. "[Social Status in Networks](https://www.aeaweb.org/articles?id=10.1257/mic.20160082)." (2015).
 
 
 {{< tdclose >}}
